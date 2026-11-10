@@ -1,0 +1,7 @@
+</main><footer class="footer"><div class="footer-grid">
+<div><a class="footer-logo" href="index.php">INDICADOR <span>DE AGUA</span></a><p>Una propuesta tecnológica para medir, analizar y mejorar el consumo de agua en la huerta.</p><p class="slogan">“Cada gota cuenta tu cosecha.”</p></div>
+<div><h3>Explora</h3><a href="index.php">Inicio</a><a href="antecedentes.php">Antecedentes</a><a href="fundamentos.php">Fundamentos</a><a href="servicios.php">Servicios</a><a href="indicador.php">Indicador de agua</a></div>
+<div><h3>Información</h3><a href="noticias.php">Noticias</a><a href="galeria.php">Galería</a><a href="contacto.php">Contacto</a><a href="login.php">Cuenta</a></div>
+<div><h3>Proyecto</h3><p>Desarrollo de software<br>Proyecto PIA · 2026</p><p>Soluciones digitales para una agricultura más eficiente y sostenible.</p></div>
+</div><div class="footer-bottom"><span>© 2026 Indicador de Consumo de Agua en la Huerta</span><span>Proyecto de desarrollo de software</span></div></footer>
+<script>const toggle=document.querySelector('.menu-toggle'),nav=document.querySelector('#navLinks');if(toggle){toggle.addEventListener('click',()=>{nav.classList.toggle('show');toggle.setAttribute('aria-expanded',nav.classList.contains('show'));});}const header=document.querySelector('.site-header');window.addEventListener('scroll',()=>header.classList.toggle('scrolled',window.scrollY>20));</script></body></html>
